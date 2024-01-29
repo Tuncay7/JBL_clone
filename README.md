@@ -1,1 +1,11 @@
-# JBL_clone
+## JBL_clone
+
+## Kullanılan Hariciler
+
+HTML CSS 
+
+Full Responsive
+
+## Ekran Görünümü
+
+![](ekran.gif)# JBL_clone
